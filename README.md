@@ -200,7 +200,8 @@ CodeOrbit_SunshineRestaurant/
 
 ### 1. Clone or Extract Repository
 ```bash
-cd CodeOrbit_SunshineRestaurant
+git clone https://github.com/NagaAswith/CodeOrbit_Sunshine-Restaurant.git
+cd CodeOrbit_Sunshine-Restaurant
 ```
 
 ### 2. Install Dependencies
@@ -342,5 +343,5 @@ The application layout is fully responsive across all standard breakpoints:
 - **Program**: CodeOrbit Tech Web Development Internship
 - **Project**: Sunshine Restaurant Platform (`CodeOrbit_SunshineRestaurant`)
 - **Developer**: Antigravity Full-Stack AI Engineer
-- **Repository**: `CodeOrbit_SunshineRestaurant`
+- **Repository**: [`CodeOrbit_Sunshine-Restaurant`](https://github.com/NagaAswith/CodeOrbit_Sunshine-Restaurant)
 - **Status**: Production Ready & Fully Verified
