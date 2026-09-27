@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#f59e0b" />
+  <circle cx="50" cy="50" r="38" fill="#1c150f" />
+  <!-- Stylized Sun & Fork/Spoon motif -->
+  <path d="M50 20 L50 80" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" />
+  <path d="M20 50 L80 50" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" />
+  <path d="M28.79 28.79 L71.21 71.21" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" />
+  <path d="M28.79 71.21 L71.21 28.79" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" />
+  <circle cx="50" cy="50" r="18" fill="#d97706" stroke="#fef3c7" stroke-width="3" />
+</svg>
