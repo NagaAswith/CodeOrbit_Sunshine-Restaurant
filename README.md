@@ -1,5 +1,4 @@
 # Sunshine Restaurant Platform
-
 > **"Good food. Great moments."**  
 > An enterprise-grade, responsive full-stack restaurant platform featuring an artisanal Customer Experience and an Admin Restaurant Management Console.
 
